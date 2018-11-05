@@ -1,1 +1,3 @@
 New sample text file
+
+Added one line now
