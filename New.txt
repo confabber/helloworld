@@ -1,3 +1,7 @@
 New sample text file
 
+<<<<<<< HEAD
 Added one line now
+=======
+2nd Line
+>>>>>>> dee96d0391916f9d3064869f28c17aa404d2f707
