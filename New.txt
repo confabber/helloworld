@@ -2,5 +2,7 @@ New sample text file
 
 Added one line now
 2nd Line
-
+Amazing line goes here
 Good
+
+Awesome goes here
