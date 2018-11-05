@@ -3,4 +3,6 @@ New sample text file
 Added one line now
 2nd Line
 
+In between here
 Good
+Xyz
